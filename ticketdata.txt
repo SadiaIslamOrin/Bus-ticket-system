@@ -1,0 +1,15 @@
+Date and Time: 14:31 PM, 02/07/2025
+========================================================
+Name: Mr.X
+Phone: 01567893445
+Gender: Male
+From: Dhaka
+To: Mymensingh
+Bus Type: AC
+Ticket Type: Single
+Seats: A1 A2
+Travel Date: 23/05/23
+Number of Ticket: 4
+Ticket Price (each): 300 Taka
+Total Price: 1200 Taka
+--------------------------------------------------------
